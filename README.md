@@ -1,5 +1,8 @@
 # Spatial-Games
-Simulation of evolutionary game dynamics on a spatial grid
+Simulation of evolutionary game dynamics on a spatial grid. You can view a demo here:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7W_ZIGp_3mU
+" target="_blank"><img src="http://img.youtube.com/vi/7W_ZIGp_3mU/0.jpg" 
+alt="demo at https://youtu.be/7W_ZIGp_3mU" width="240" height="180" border="10" /></a>
 
 # Installation
 This program depends on Python 3, PySide, and PyQt5. If you are using a Mac, you can install these programs through the terminal using brew:
